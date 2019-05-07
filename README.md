@@ -5,14 +5,7 @@ Edward A. Constantine
 
 > More information about my experience can be found on [LinkedIn](https://www.linkedin.com/in/edwardconstantine/)
 
-- Operating Systems: Windows, Unix, Linux 
-- Version Control: TFS, GIT, Eclipse Subversive – SVN, 
-- Languages: Java (Spring MVC + Junit), SQL, PL-SQL, HTML, CSS, XML, Visual Basic, 
-- Scripting: Bash/Batch/PowerShell  
-- IDEs: Eclipse, IntelliJ IDEA 
-- Methodologies: Waterfall, Agile (Scrum) 
-- Database:Oracle (Toad, SQL Developer), MySQL (MYSQL Workbench), SQL Server 
-- Distributed Systems: Apache Tomcat & HTTP Servers, WebSphere App Server, IBM Integration Bus 
-- ETL: Informatica 9.6/10.2
-- Job Schedulers: BMC Control-M, CA-7
-- Monitoring: DynaTrace, TrueSight
+| Operating Systems | Version Control | Languages | Scripting | IDEs | Methodologies | Database | Distributed Systems | ETL | Job Schedulers | Monitoring
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Windows, Unix, Linux | TFS, GIT, Eclipse Subversive| Java (Spring MVC + Junit, SQL, PL-SQL, XML, Visual Basic | Bash, Batch, PowerShell  | Eclipse, IntelliJ IDEA | Waterfall, Agile (Scrum) | Oracle (Toad, SQL Developer), MySQL (MYSQL Workbench), SQL Server | Apache Tomcat & HTTP Servers, WebSphere App Server, IBM Integration Bus | Informatica 9.6/10.2 | BMC Control-M, CA-7 | DynaTrace, TrueSight
+
