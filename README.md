@@ -13,6 +13,6 @@ Edward A. Constantine
 - Methodologies: Waterfall, Agile (Scrum) 
 - Database:Oracle (Toad, SQL Developer), MySQL (MYSQL Workbench), SQL Server 
 - Distributed Systems: Apache Tomcat & HTTP Servers, WebSphere App Server, IBM Integration Bus 
-- ETL: Informatica 9.6/10.2 Others
+- ETL: Informatica 9.6/10.2
 - Job Schedulers: BMC Control-M, CA-7
 - Monitoring: DynaTrace, TrueSight
